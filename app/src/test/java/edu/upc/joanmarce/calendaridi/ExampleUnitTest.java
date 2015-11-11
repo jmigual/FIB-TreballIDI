@@ -1,4 +1,4 @@
-package com.example.joan.calendarjoan;
+package edu.upc.joanmarce.calendaridi;
 
 import org.junit.Test;
 
